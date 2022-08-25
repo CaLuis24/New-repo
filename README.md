@@ -36,5 +36,5 @@ Lorem ipsum2.
 
 [Sitio Web de la UCR](https://www.ucr.ac.cr/)  
 [Sitio Web FOSS4G](https://foss4g.org/)  
-![](https://www.google.com/search?q=buques+de+guerra&sxsrf=ALiCzsZgqTatu1qM3TD2qIh3n39BtGPF7A:1661438281733&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjj7eT0m-L5AhUigIQIHVusCwcQ_AUoAXoECAIQAw&biw=1440&bih=821&dpr=1#imgrc=W-_Yuid4sWgURM)
+![]
 
