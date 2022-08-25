@@ -16,4 +16,6 @@ Etiam eleifend efficitur risus quis efficitur. Sed mollis, metus vitae tincidunt
 Donec pretium risus vel nunc venenatis porta. Ut molestie magna orci, sit amet malesuada sapien viverra quis. Pellentesque euismod ligula ut nibh dapibus pulvinar. Morbi pulvinar porttitor massa, ornare porta ante efficitur at. Fusce urna enim, tristique vitae turpis et, sagittis porta odio. Duis et lacus ligula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Vivamus vulputate quis purus sit amet auctor. Fusce id facilisis magna, at euismod risus. Fusce volutpat elit sodales volutpat pellentesque. Morbi nec tempor felis.
 
 Lorem ipsum.  
-Lorem ipsum2.
+Lorem ipsum2.  
+> "*Yo solo se qué no se nada *" Sócrates  
+> "*En un lugar muy lejano de la mancha*"
