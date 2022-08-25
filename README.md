@@ -36,5 +36,5 @@ Lorem ipsum2.
 
 [Sitio Web de la UCR](https://www.ucr.ac.cr/)  
 [Sitio Web FOSS4G](https://foss4g.org/)  
-![]
+![](Prueba.jpeg)  
 
