@@ -36,6 +36,6 @@ Lorem ipsum2.
 
 [Sitio Web de la UCR](https://www.ucr.ac.cr/)  
 [Sitio Web FOSS4G](https://foss4g.org/)  
-![](Prueba.jpeg)  
-![](https://www.vozdeamerica.com/a/ee-uu-contempla-cambios-en-sus-buques-de-guerra-/6519156.html)  
+![Buque de Guerra](Prueba.jpeg)  
+ 
 
