@@ -38,6 +38,6 @@ Lorem ipsum2.
 [Sitio Web FOSS4G](https://foss4g.org/)  
 ![Buque de Guerra](Prueba.jpeg)  
 **Imagen en sintaxis HTML**
-<img src="Prueba.jpeg" width="400" height="200">
+<img src="Prueba.jpeg" width="200" height="100">
  
 
