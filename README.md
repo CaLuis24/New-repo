@@ -19,3 +19,14 @@ Lorem ipsum.
 Lorem ipsum2.  
 > "*Yo solo se qué no se nada *" Sócrates  
 > "*En un lugar muy lejano de la mancha*"
+
+**Lista numerada**  
+1. Arroz
+2. Frijoles
+3. Azúcar
+4. Café 
+ 
+**Lista no nnumerada**
+Carne
+Queso
+Jugo
