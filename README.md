@@ -29,7 +29,7 @@ Lorem ipsum2.
 **Lista no nnumerada**
 - Carne  
 - Queso  
--     Tortillas
--     Tomates
--     Sal
+    -Tortillas
+    -Tomates
+    -Sal
 - Jugo  
