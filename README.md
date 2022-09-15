@@ -41,5 +41,10 @@ Lorem ipsum2.
 <img src="Prueba.jpeg" width="200" height="100">  
 **Imagen en servidor remoto**  
 ![Imagen del buque de guerra EE.UU](https://gdb.voanews.com/06bc0000-0aff-0242-08ff-08da18a24712_w1200_r1.jpg "Imagen del Buque de Guerra")   
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
  
 
